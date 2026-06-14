@@ -45,4 +45,19 @@ This project analyzes Zepto product sales and inventory data using MySQL to unde
 
 ## Skills Demonstrated
 
-SQL Querying, Data Cleaning, Exploratory Data Analysis, Business Data Analysis, Inventory Analysis, Retail Analytics,Data-Driven Decision Making
+SQL Querying, Data Cleaning, Exploratory Data Analysis, Business Data Analysis, Inventory Analysis, Retail Analytics,Data-Driven Decision Making.
+
+
+## Project Screenshots
+
+### Dataset Overview
+![Dataset Overview](Screenshots/Capture.PNG)
+
+### Sales Analysis Dashboard - 1
+![Sales Analysis Dashboard - 1](Screenshots/Zepto-1.PNG)
+
+### Sales Analysis Dashboard - 2
+![Sales Analysis Dashboard - 2](Screenshots/Zepto-2.PNG)
+
+### Sales Analysis Dashboard - 3
+![Sales Analysis Dashboard - 3](Screenshots/Zepto-3.PNG)
