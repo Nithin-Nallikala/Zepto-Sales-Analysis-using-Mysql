@@ -53,11 +53,11 @@ SQL Querying, Data Cleaning, Exploratory Data Analysis, Business Data Analysis, 
 ### Dataset Overview
 ![Dataset Overview](Screenshots/Capture.PNG)
 
-### Sales Analysis Dashboard - 1
-![Sales Analysis Dashboard - 1](Screenshots/Zepto-1.PNG)
+### Sales Analysis  - 1
+![Sales Analysis - 1](Screenshots/Zepto-1.PNG)
 
-### Sales Analysis Dashboard - 2
-![Sales Analysis Dashboard - 2](Screenshots/Zepto-2.PNG)
+### Sales Analysis  - 2
+![Sales Analysis - 2](Screenshots/Zepto-2.PNG)
 
-### Sales Analysis Dashboard - 3
-![Sales Analysis Dashboard - 3](Screenshots/Zepto-3.PNG)
+### Sales Analysis  - 3
+![Sales Analysis - 3](Screenshots/Zepto-3.PNG)
