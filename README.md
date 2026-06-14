@@ -5,11 +5,11 @@ Worked on the Zepto sales Analysis using Mysql and performed the Data Cleaning, 
 
 ## Tools Used
 
-* MySQL
-* SQL
-* Data Cleaning
-* Data Analysis
-* Exploratory Data Analysis (EDA)
+1) MySQL
+2) SQL
+3) Data Cleaning
+4) Data Analysis
+5) Exploratory Data Analysis (EDA)
 
 ## Project Overview
 
@@ -17,31 +17,31 @@ This project analyzes Zepto product sales and inventory data using MySQL to unde
 
 ## Analysis Performed
 
-1. Analyzed product pricing, discounts, and inventory data across 3,728 products and 14 categories.
-2. Cleaned and validated product and pricing information to improve data quality before analysis.
-3. Evaluated key metrics such as Total Products (3,728), Products In Stock (3,275), and Products Out of Stock (453).
-4. Analyzed category-wise product distribution, discount trends, and stock availability.
-5. Identified products with high discounts, premium pricing, and low stock levels to understand inventory and pricing patterns.
+1) Analyzed product pricing, discounts, and inventory data across 3,728 products and 14 categories.
+2) Cleaned and validated product and pricing information to improve data quality before analysis.
+3) Evaluated key metrics such as Total Products (3,728), Products In Stock (3,275), and Products Out of Stock (453).
+4) Analyzed category-wise product distribution, discount trends, and stock availability.
+5) Identified products with high discounts, premium pricing, and low stock levels to understand inventory and pricing patterns.
 
 ## SQL Concepts Used
 
-* Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
-* GROUP BY
-* HAVING
-* CASE Statements
-* Subqueries
-* Common Table Expressions (CTEs)
-* ORDER BY
-* DISTINCT
-* Data Cleaning and Data Transformation
+1) Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
+2) GROUP BY
+3) HAVING
+4) CASE Statements
+5) Subqueries
+6) Common Table Expressions (CTEs)
+7) ORDER BY
+8) DISTINCT
+9) Data Cleaning and Data Transformation
 
 ## Key Insights
 
-* The dataset contains 3,728 products spread across 14 categories.
-* Approximately 88% of products were in stock (3,275 products), while 453 products were out of stock.
-* Product pricing and discount patterns varied across categories.
-* Several products had high discounts, while some premium-priced products had limited discounts.
-* Stock availability differed across categories, highlighting potential inventory planning opportunities.
+1) The dataset contains 3,728 products spread across 14 categories.
+2) Approximately 88% of products were in stock (3,275 products), while 453 products were out of stock.
+3) Product pricing and discount patterns varied across categories.
+4) Several products had high discounts, while some premium-priced products had limited discounts.
+5) Stock availability differed across categories, highlighting potential inventory planning opportunities.
 
 ## Skills Demonstrated
 
